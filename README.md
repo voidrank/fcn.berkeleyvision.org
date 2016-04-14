@@ -8,6 +8,7 @@ These are models and scripts for the [paper](http://www.cs.berkeley.edu/~jonlong
 and its journal edition in PAMI (to appear).
 
 **Note that this is a work in progress and the final, reference version is coming soon.**
+Please ask Caffe and FCN usage questions on the [caffe-users mailing list](https://groups.google.com/forum/#!forum/caffe-users).
 
 These models are compatible with `BVLC/caffe:master` @ 74cc497 with the merge of PRs BVLC/caffe#3613 and BVLC/caffe#3570.
 The code and models here are available under the same license as Caffe (BSD-2) and the Caffe-bundled models (that is, unrestricted use; see the [BVLC model license](http://caffe.berkeleyvision.org/model_zoo.html#bvlc-model-license).
